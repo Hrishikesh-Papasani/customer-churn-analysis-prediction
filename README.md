@@ -55,9 +55,8 @@ Our project leverages the following technologies:
 - **Pandas:** Data manipulation library for data preprocessing and analysis.
 - **Matplotlib & Seaborn :** Data visualisation tools
 
-
-
 ## Author
 Made by **Hrishikesh Reddy Papasani**
-
 Connect on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hrishikesh-reddy-papasani-02110725a/)
+<br>
+Contact at hrpapasani@gmail.com
