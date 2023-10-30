@@ -11,7 +11,7 @@
 
 ## About the Project <a name="about-the-project"></a>
 
-In today's competitive business landscape, retaining customers and ensuring their satisfaction are paramount to the success of any company. Customer churn, or customer attrition, is a critical concern for businesses, as it directly impacts revenue and growth. Understanding why customers leave and predicting which ones are at risk of churning is crucial.
+In today's competitive business landscape, retaining customers and ensuring their satisfaction are paramount to the success of any company. Customer churn, or customer attrition, is a critical concern for businesses, as it directly impacts revenue and growth. Understanding why customers leave and predicting which ones are at risk of churning is crucial. It's always easier to retain a customer than to gain a new one!
 <br> 
 <div align="center">
   <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/customer-churn-edit.jpeg" height="250" width="400">
